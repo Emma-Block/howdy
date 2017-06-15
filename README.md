@@ -1,21 +1,15 @@
-# howdy
-<<<<<<< HEAD
-SHUCKS
-=======
-<<<<<<< HEAD
+# howdy hey squad
 
-<<<<<<< HEAD
-IMMA POTATO! -suba
-ILINA IS THE BEST PERSON IN THE ENTIRE WORLD -suba
-=======
-POTATO
->>>>>>> b7b38e441fed8745d94ec0da860c988c698385cf
+## Setup
 
-LALALALALALALALALALALALALALALA
-=======
-awh shucks
-gee whiz
-golly gee
-ahem
->>>>>>> e4ebea778c53f7a6d6386c766289aed798e099a0
->>>>>>> eff06e4c82a62b9b22c7ad8ec4bba0d7b4731cd7
+Run this command in the howdy directory:
+```
+npm install jsdom
+```
+
+## Usage
+Try running the read-event file:
+```
+node read-event.js
+```
+See that it produces at array of strings, each one being the team ID number of one of the teams registered for the tournament.  To be continued :)
